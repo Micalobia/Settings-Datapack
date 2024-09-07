@@ -1,0 +1,1 @@
+$data modify storage settings:data player.$(key) set value '$(value)'

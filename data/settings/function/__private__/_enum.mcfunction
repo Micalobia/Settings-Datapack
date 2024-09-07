@@ -1,0 +1,1 @@
+$data modify storage settings:data display set from storage settings:data entries.enums.$(key)[$(index)]
